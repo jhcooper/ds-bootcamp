@@ -1,0 +1,20 @@
+[project]
+name = "week-one-env"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "John Henry Cooper", email = "122650638+jhcooper@users.noreply.github.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "ruff>=0.16.1",
+    "tool>=0.8.0",
+]
+
+[project.scripts]
+week-one-env = "week_one_env:main"
+
+[build-system]
+requires = ["uv_build>=0.12.2,<0.13.0"]
+build-backend = "uv_build"

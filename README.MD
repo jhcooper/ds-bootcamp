@@ -1,1 +1,1 @@
-17 Week Self-Taught Data Science Review and Interview Prep course
+17 Week Self-Taught Data Science Review and Interview Prep coure
